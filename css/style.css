@@ -1,0 +1,342 @@
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+
+.top
+{
+	background-image: url("../img/bg.png");
+	background-size: cover;
+	background-position: center;
+	width: 100%;
+    height: 120vh;
+}
+.top img
+{
+	padding-left: 46%;
+	margin-top: 3%;
+}
+.top h1
+{
+text-align: center;
+font-family: BebasNeueBold;
+font-size: 380%;
+letter-spacing: 5.70937px;
+color: #FFFFFF;
+padding-top: 23%;
+}
+.top p
+{
+	font-family: Open Sans;
+	color: white;
+	text-align: center;
+	font-size: 100%;
+	margin:auto;
+}
+.top h6
+{
+	text-align: center;
+	color: white;
+	font-family: Open Sans;
+	padding-top: 20%;
+	letter-spacing: 3.7px;
+}
+
+.story 
+{
+	background-color: white;
+	background-size: cover;
+	width: 100%;
+	height: 80vh;
+}
+.story h1
+{
+	font-family: Open Sans;
+	text-align: center;
+	padding-top: 5%;
+	font-size: 150%;
+}
+.navbar
+{
+	border-bottom: 1px solid #E6E6E6;
+}
+.collapse
+{
+	margin-left: 30%;
+}
+.navbar-brand
+{ 
+	padding-left: 15%;
+}
+.navbar-nav li
+{
+	margin-left: 40px;
+}
+.line
+{
+	padding-left: 48.5%;
+}
+.story
+{
+	width: 100%;
+}
+.story-text h3
+{
+	width: 400px;
+	color: #48555B;
+	margin-left: 20%;
+	padding-top: 5%;
+	font-family: Open Sans;
+	font-weight: bold;
+}
+.story-text p
+{
+	width: 400px;
+	color: #48555B;
+	margin-left: 20%;
+	padding-top: 5%;
+	font-family: Open Sans;
+	margin-top: -3%;
+}
+
+.row img
+{
+	margin-top: 8%;
+}
+.story-photo
+{
+	display: block;
+	margin-left: 55%;
+	margin-top: -20%;
+}
+.story-photo img
+{
+	margin-left: 2%;
+}
+.servises
+{
+	background-color: white;
+	background-size: cover;
+	width: 100%;
+	height: 20vh;
+}
+.servises h1
+{
+	color: #48555B;
+	font-family: Open Sans;
+	text-align: left;
+	font-weight: bold;
+	font-size: 120%;
+	letter-spacing: 2.30625px;
+	padding-left: 20%;
+	padding-top: 5%;
+}
+.servises img
+{
+	padding-left: 20%;
+}
+.servises div
+{
+	display: inline-block;
+}
+.servises-text
+{
+	width: 400px;
+	height: 38px;
+	margin-left: 10%;
+}
+.servises-text p
+{
+	font-size: 70%;
+}
+.servis-zagol
+{
+	width: 300px;
+	margin-top: 0;
+	margin-left: 16%;
+}
+.servises button
+{
+	border-radius: 0;
+	width: 150px;
+	margin-left: 3%;
+	background-color: #00A4E5;
+	border:none;
+}
+.block
+{
+	background-color: white;
+	background-size: cover;
+	width: 100%;
+	height: 70vh;
+}
+.col-sm-4 h1
+{
+	font-family: Open Sans;
+	width: 250px;
+	font-weight: bold;
+	font-size: 110%;
+	padding-top: 10%;
+}
+.col-sm-4 p
+{
+	font-family: Open Sans;
+	width: 250px;
+	font-size: 110%;
+	padding-top: 5%;
+}
+.col-sm-4
+{
+	border: 1px solid #E6E6E6;
+	margin-top: 5%;
+}
+.build
+{
+	background-image: url("../img/bg2.png");
+	background-size: cover;
+	background-position: center;
+	width: 100%;
+	height: 70vh;
+}
+.build h1
+{
+	text-align: center;
+	font-family: Open Sans;
+	color: #48555B;
+	font-weight: bold;
+	letter-spacing: 0.15px;
+	padding-top: 10%;
+}
+.build button
+{
+	margin-left: 43%;
+	border-radius: 0;
+	margin-top: 3%;
+	width: 180px;
+	height: 50px;
+	background-color: #00A4E5;
+	border:none;
+}
+.signup
+{
+	background-color: #171819;
+	width: 100%;
+	height: 15vh;
+	background-size: cover;
+}
+.signup h1
+{
+	font-family: Open Sans;
+	text-align: left;
+	margin-left: 20%;
+	color: white;
+	font-weight: bold;
+	padding-top: 2%;
+	font-size: 150%;
+	letter-spacing: 0.846154px;
+	width: 250px
+}
+
+.signup div
+{
+	display: inline-block;
+}
+
+.signup-vvod
+{
+	margin-left: 10%;
+}
+.signup-vvod button
+{
+	border-radius: 0;
+	width: 180px;
+	height: 30px;
+	background-color: #00A4E5;
+	border:none;
+	margin-top: -0.6%;
+
+}
+.signup-zag
+{
+	margin-left: 20%;
+	width: 250px;
+	padding-top: 2%;
+}
+footer
+{
+	background-color: #141A20;
+	width: 100%;
+	height: 50vh;
+}
+.col-sm h1
+{
+  font-family: Open Sans;
+  font-size: 100%;
+  color: white;
+  padding-top: 35%;
+}
+.col-sm p
+{
+  font-family: Open Sans;
+  color: white;
+  padding-top: 5%;
+  width: 250px;
+}
+.col-sm a
+{
+  font-family: Open Sans;
+  color: white;
+  font-weight: 600;
+  margin-top: 10%;
+}
+.col-sm ul
+{
+	list-style: none;
+	margin-top: 25%;
+}
+.col-sm li
+{
+	margin-top: 7%;
+}
+.col-sm
+{
+	margin-left: 30px;
+}
+.links
+{
+	margin-left: 30%;
+	margin-top: 35%;
+}
+.container
+{
+	margin-left: 12%;
+}
+.faq
+{
+	padding-top:9%;
+}
+.blog
+{
+	padding-top: 9%;;
+}
+.logo
+{
+	padding-top: 9%;
+}
+.logo img
+{
+	margin-left: 15%;
+}
+.contact
+{
+	margin-top: -1%;
+}
+@font-face
+{
+	font-family: BebasNeueBold;
+	src: url("../fonts/ofont.ru_Bebas Neue.ttf");
+}
+@font-face
+{
+	font-family: Open Sans;
+	src:url("../fonts/OpenSans-Light.ttf");
+}

@@ -1,0 +1,427 @@
+@media only screen and (min-device-width: 320px) 
+and (max-device-height: 568px) 
+and (-webkit-device-pixel-ratio: 2) /*IPHONE 5*/
+{
+  .story-text h3
+{
+	margin-left: 0;
+	width: 320px;
+	font-size: 150%;
+}
+  .story-text p
+{
+	margin-left: 0;
+	width: 320px;
+}
+.servises-text
+{
+	width: 320px;
+}
+.row
+{
+	margin-top: 20%;
+}
+.signup
+{
+	height: 120px;
+}
+.signup-vvod input
+{
+	width: 300px;
+	margin-left: -5%;
+}
+.signup-vvod button
+{
+	margin-left: 15%;
+	margin-top: 1%;
+}
+.signup-zag
+{
+	margin-left: -5%;
+}
+.signup-vvod
+{
+	width: 280px;
+}
+}
+@media only screen 
+and (min-width: 321px)
+and (max-width : 760px)
+{
+
+	.top
+{
+	background-image: url("../img/bg.png");
+	background-size: cover;
+	background-position: center;
+	width: 100%;
+    height: 80vh;
+}
+.top img
+{
+	padding-left: 37%;
+}
+.collapse
+{
+	margin-left: 0;
+}
+.navbar-brand
+{ 
+	padding-left: 7%;
+}
+.line
+{
+	padding-left: 43%;
+}
+.story-text h3
+{
+	margin-left: 0;
+	width: 370px;
+}
+.story-text p
+{
+	margin-left: 0;
+	width: 370px;
+}
+.story-photo
+{
+	display: inline;
+	margin-left: 3px;
+}
+.story-photo img
+{
+	margin-left: 4%;
+	height: 200px;
+	width: 100px;
+}
+.story 
+{
+	width: 100%;
+	height: 100%;
+}
+.servis-zagol
+{
+	width: 300px;
+	margin-top: 5%;
+	margin-left: 5%;
+}
+.servises-text
+{
+	width: 370px;
+	margin-left: 2%;
+}
+.servises button
+{
+  margin-left: 28%;
+}
+.block
+{
+	width: 100%;
+	height: 100%;
+}
+.build button
+{
+	margin-left: 25%;
+}
+.signup-vvod
+{
+	margin-left: 6%;
+}
+.signup-zag
+{
+	margin-left: 10%;
+}
+footer
+{
+	height: 170vh;
+}
+.col-sm
+{
+	margin-left: -15%;
+}
+.col-sm-4
+{
+	margin-left: -2%;
+}
+.row
+{
+	width: 300px;
+}
+.container
+{
+	width: 300px;
+}
+.links
+{
+	margin-left: 1%;
+	margin-top: -25%;
+}
+.col-sm li
+{
+	margin-top: 1%;
+}
+.faq
+{
+	padding-top:0;
+}
+.col-sm ul
+{
+	margin-top: 2%;
+	margin-left: -10%;
+}
+.contact
+{
+	margin-top: -20%;
+}
+.logo img
+{
+	height: 20px;
+	width: 20px;
+	margin-left: 10%;
+}
+.logo
+{
+	margin-left: 5%;
+	margin-top: -10%;
+}
+}
+
+/*ipad*/
+@media only screen and (min-width: 768px) and (max-width: 1024px)
+{
+		.top
+{
+	background-image: url("../img/bg.png");
+	background-size: cover;
+	background-position: center;
+	width: 100%;
+    height: 50vh;
+}
+.top img
+{
+	padding-left: 42%;
+}
+.collapse
+{
+	margin-left: 0;
+}
+.navbar-brand
+{ 
+	padding-left: 4%;
+}
+.line
+{
+	padding-left: 46%;
+}
+.story-text
+{
+	margin-left: 30%;
+}
+.story-text h3
+{
+	margin-left: 0;
+	width: 370px;
+}
+.story-text p
+{
+	margin-left: 0;
+	width: 370px;
+}
+.story-photo
+{
+	display: inline;
+	margin-left: 32%;
+}
+.story-photo img
+{
+	margin-left: 0;
+	height: 200px;
+	width: 100px;
+}
+.story 
+{
+	width: 100%;
+	height: 100%;
+}
+.servis-zagol
+{
+	width: 300px;
+	margin-top: 5%;
+	margin-left: 5%;
+}
+.servises-text
+{
+	width: 370px;
+	margin-left: 2%;
+}
+.servises button
+{
+  margin-left: 42%;
+  margin-top: 3%;
+}
+.block
+{
+	width: 100%;
+	height: 100%;
+}
+.build button
+{
+	margin-left: 40%;
+}
+.signup-vvod
+{
+	margin-left: 6%;
+}
+.signup-zag
+{
+	margin-left: 10%;
+}
+footer
+{
+	height: 70vh;
+}
+
+
+.row
+{
+	width: 640px;
+	margin-left: -15%;
+}
+
+.row p
+{
+	font-size: 80%;
+	width: 150px;
+}
+.row h1
+{
+	font-size: 100%;
+	width: 150px;
+}
+.links
+{
+	margin-top: 0;
+	margin-left: 20%;
+}
+.col-sm ul
+{
+	margin-top: 15%;
+}
+}
+ /*ipad pro*/
+@media only screen and (min-width: 1024px) 
+and (max-width: 1366px)
+{
+
+.top img
+{
+	padding-left: 45%;
+}
+.collapse
+{
+	margin-left: 0;
+}
+.navbar-brand
+{ 
+	padding-left: 4%;
+}
+.line
+{
+	padding-left: 44%;
+}
+.story-text
+{
+	margin-left: 35%;
+}
+.story-text h3
+{
+	margin-left: 0;
+	width: 370px;
+}
+.story-text p
+{
+	margin-left: 0;
+	width: 370px;
+}
+.story-photo
+{
+	display: inline;
+	margin-left: 37%;
+}
+.story-photo img
+{
+	margin-left: 0;
+	height: 200px;
+	width: 100px;
+}
+.story 
+{
+	width: 100%;
+	height: 100%;
+}
+.servis-zagol
+{
+	width: 300px;
+	margin-top: 5%;
+	margin-left: 5%;
+}
+.servises-text
+{
+	width: 370px;
+	margin-left: 2%;
+}
+.servises button
+{
+  margin-left: 42%;
+  margin-top: 3%;
+}
+.block
+{
+	width: 100%;
+	height: 100%;
+}
+.build button
+{
+	margin-left: 40%;
+}
+.signup-vvod
+{
+	margin-left: 6%;
+}
+.signup-zag
+{
+	margin-left: 10%;
+}
+footer
+{
+	height: 70vh;
+}
+.row
+{
+	width: 640px;
+	margin-left: 5%;
+}
+.build
+{
+	height: 30vh;
+}
+.row p
+{
+	font-size: 80%;
+	width: 150px;
+}
+.row h1
+{
+	font-size: 100%;
+	width: 150px;
+}
+.links
+{
+	margin-top: 0;
+	margin-left: 20%;
+}
+.col-sm ul
+{
+	margin-top: 15%;
+}
+}
